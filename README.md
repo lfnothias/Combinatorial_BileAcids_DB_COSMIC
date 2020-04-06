@@ -4,7 +4,7 @@ Repository for the creation of the Combinatorial Bile Acids Database for COSMIC.
 ## Instructions
 See the notebooks in the *Processing_notebook* for a representating workflow.
 - The **Generic** notebook contains the results for all the positional isomers of bile acids (28,630 compounds).
-- The **Unique** noteboook contains the results of one representative bile acid per positional isomer (7,010 compounds).
+- The **Unique** noteboook contains the results of one representative bile acid per positional isomer (7,010 compounds). The rational is " Since without reference compound, isomerical resolution is limited by fragmentation spectra mass spectrometry, when multiple scaffolds were positional isomers (i.e hydroxyl position on the scaffold), only one representative compound was kept."
 
 ## Informations
 The combinatorial database is generated with SmiLib 2.0. 
