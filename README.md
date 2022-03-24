@@ -1,6 +1,11 @@
 # Combinatorial_BileAcids_DB_COSMIC
 Repository for the creation of the Combinatorial Bile Acids Database for COSMIC.
 
+Main citation:
+
+**[High-confidence structural annotation of metabolites absent from spectral libraries](https://www.nature.com/articles/s41587-021-01045-9)** \
+*Martin A. Hoffmann, Louis-Félix Nothias, Marcus Ludwig, Markus Fleischauer, Emily C. Gentry, Michael Witting, Pieter C. Dorrestein, Kai Dührkop & Sebastian Böcker*; Nature Biotechnology volume 40, p 411–421 (2022)
+
 ## Instructions
 See the notebooks in the *Processing_notebook* for a representating workflow.
 - The **Generic** notebook contains the results for all the positional isomers of bile acids (28,630 compounds).
